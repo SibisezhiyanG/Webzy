@@ -43,7 +43,7 @@ const AboutSection = () => {
         >
           <h2 className="mb-4">About Us</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Webzy is a small, newly started freelance studio. We're two
+            Webzymate is a small, newly started freelance studio. We're two
             people focused on delivering quality work and building honest relationships
             with our clients. We're here to help, not to oversell.
           </p>

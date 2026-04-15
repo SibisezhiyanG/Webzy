@@ -12,7 +12,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <p className="text-sm text-muted-foreground text-center md:text-right">
-            © {currentYear} Webzy. All rights reserved.
+            © {currentYear} Webzymate. All rights reserved.
           </p>
         </div>
       </div>
